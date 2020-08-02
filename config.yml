@@ -1,0 +1,23 @@
+# Discord bot run token
+TOKEN: ''
+
+# Bot prefix
+Prefix: ';'
+
+# Role name, role you want add 
+RoleName: 'Customer'
+
+# Name of the .txt file where your serial/key/license are stored
+SerialFile: 'serial.txt'
+
+# VALID KEY - EMBED - Message sent by the bot
+ValidTitle: 'Successfull'
+ValidName: 'Thanks for your purchase'
+ValidValue: 'Role added'
+ValidFooter: 'Yea!'
+
+# INVALID KEY - EMBED - Message sent by the bot
+InvalidTitle: 'Invalid orderid !'
+InvalidFooter: 'Yea!'
+UsedTitle: 'Used orderid !'
+UsedFooter: 'Yea!'

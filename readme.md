@@ -6,7 +6,7 @@ REQUIEREMENTS :
 - requests
 
 Update token in update.py
-Update config.yaml
+Update config.yml
 run bot.
 
 Credits to https://github.com/djaquilexe/discord-license-bot
